@@ -1,5 +1,7 @@
 # first-Assignment
 
+## Codes are in the master branch. [Click to access source files](https://github.com/Pazarama-Android-Kotlin-Bootcamp/week-1-assignment-aliatillaydemir/tree/master/src/main/kotlin).
+
 ## Ödev 1 
 Kotlin Alıştırmaları
 
